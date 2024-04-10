@@ -24,7 +24,7 @@ app.post('/login', (req, res) => {
     return;
   }
 
-  // Check authentication (dummy example, replace with your authentication logic)
+  // Check authentication 
   if (username === 'admin' && password === 'password') {
     res.send('Login successful!');
   } else {
