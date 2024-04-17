@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "devStart": "nodemon backend/server.js"
+    "devStart": "nodemon backend/server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-ejs-layouts": "^2.5.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
