@@ -20,7 +20,7 @@ let dataRead = (err, data) => {
     const admins = accounts.admins
     const users = accounts.users
 
-app.get(["/", "/newuser"], (req, res) => {
+app.get(["/", "/createaccount"], (req, res) => {
     res.render("index")
 })
 app.get("/admins", (req, res) => {

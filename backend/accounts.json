@@ -2,25 +2,25 @@
     "admins": [
         {
             "id": 1,
-            "name": "Mihai",
-            "surname": "Diaconu",
-            "username": "Waleed6000",
-            "email": "mihai_bosu8@yahoo.com",
+            "name": "Gugu",
+            "surname": "Mario",
+            "username": "Mario",
+            "email": "g.mario282828@gmail.com",
             "favmovies": []
         },
         {
             "id": 2,
-            "name": "Andreea",
-            "surname": "Daescu",
-            "username": "Andreea",
+            "name": "Ciucu",
+            "surname": "Alexandru",
+            "username": "Ciucu",
             "email": "",
             "favmovies": []
         },
         {
             "id": 3,
-            "name": "Evelyn",
-            "surname": "Badescu",
-            "username": "Evelyn",
+            "name": "Croitoru",
+            "surname": "Sebastian",
+            "username": "Sebi",
             "email": "",
             "favmovies": []
         }
@@ -36,10 +36,10 @@
         },
         {
             "id": 2,
-            "name": "Gheorghe",
-            "surname": "Gugu",
-            "username": "Gheorghe",
-            "email": "gugu_gheorghe13@yahoo.com",
+            "name": "Zamfir",
+            "surname": "Costache",
+            "username": "ZCostache",
+            "email": "costacheal3lea@yahoo.com",
             "favmovies": []
         }
     ]

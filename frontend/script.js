@@ -20,7 +20,7 @@ window.addEventListener("load", function () {
         );
     }
     
-    else if (page == "newuser") {
+    else if (page == "createaccount") {
         rootElement.innerHTML = ""
         rootElement.insertAdjacentHTML('beforeend',
             `
